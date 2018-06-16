@@ -1,0 +1,1 @@
+python 1_SparkTrendingTopics.py ../Datasets/Tweets/tweets_es.json ../Results/Trending ../Results/TopN 3
